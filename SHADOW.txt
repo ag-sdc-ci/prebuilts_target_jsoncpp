@@ -1,0 +1,6 @@
+shadow prebuilt repo: jsoncpp (target)
+  upstream: external/jsoncpp
+  api-level: 34 (branch 34-20261016)
+  blobs: org.blisslabs.ag.ext.jsoncpp.apex
+  dev-src: extracted extractive payload (libjsoncpp.so, libjsoncpp.a, json/*.h headers) + root Android.bp
+  date: 2026-10-16
